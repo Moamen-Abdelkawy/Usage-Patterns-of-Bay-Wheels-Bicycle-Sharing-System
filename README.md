@@ -87,7 +87,7 @@ The wrangled dataset, contains 5,022,833 trips covering the period from  28th  J
 
 ## Useful Feedback
 
-I Changed the color encoding and the size of some plots based on helpful feedback from my family.
+I changed the color encoding and the size of some plots based on helpful feedback from my lovely and artistic wife, Heba Abdeen.
 
 ## Resources
 - [Bay Wheels trip history data](https://s3.amazonaws.com/baywheels-data/index.html)
