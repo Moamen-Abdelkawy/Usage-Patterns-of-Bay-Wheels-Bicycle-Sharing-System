@@ -1,7 +1,6 @@
 # Usage Patterns of Bay Wheels Bicycle Sharing System
 ## by Moamen Abdelkawy
 
-### (Notes to the reviewer at the end of this page).
 ## Dataset
 
 Bay Wheels (formerly Ford GoBike) is a regional public bicycle sharing system in California's San Francisco Bay Area, and one of the largest in the US. This document explores a dataset containing Bay Wheels's trip data covering the period from 28 June 2017 to 31 August 2021.
@@ -99,4 +98,3 @@ I changed the color encoding and the size of some plots based on helpful feedbac
 - Original dataset used for first notebook (exploratory-analysis) [here](https://www.kaggle.com/moamenabdelkawy/bay-wheels-trip-data-full-august-2021)
 - Wrangled dataset used for second notebook (explanatory-analysis) [here](https://www.kaggle.com/moamenabdelkawy/bay-wheels-trip-data-wrangled)
 - The first notebook takes about 40 minutes to run on Kaggle kernels.
-
